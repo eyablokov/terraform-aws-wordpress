@@ -1,0 +1,6 @@
+# ignore all terraform run time files
+.terraform
+terraform.tfstat*
+
+# ignore .git
+!.gitignore
